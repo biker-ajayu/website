@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppNavComponent implements OnInit {
 
+  cimg1: any = 'https://raw.githubusercontent.com/biker-ajayu/website/gh-pages/assets/images/logoBiker.jpeg';
+
   constructor() { }
 
   ngOnInit() {
